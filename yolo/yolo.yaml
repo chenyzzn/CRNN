@@ -1,0 +1,6 @@
+train: C:/AI_training/photo
+test: C:/AI_training/photo
+val: C:/AI_training/photo
+
+nc: 1
+names: ['1']
